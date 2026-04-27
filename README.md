@@ -1,4 +1,4 @@
-[gemini-code-1777262462763.md](https://github.com/user-attachments/files/27111391/gemini-code-1777262462763.md)
+
 # 金融韧性综合指数计算工具 (Financial Resilience Index Calculator)
 
 本项目是一个基于 Python 的自动化数据处理工具，旨在计算中国各省份在 2011-2022 年间的**金融韧性综合指数**。程序集成了数据清洗、标准化、熵值法权重计算及综合评分生成等核心功能。
